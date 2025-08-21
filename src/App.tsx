@@ -1,3 +1,4 @@
+import { MotivationalMessage } from "./components/motivational-message"
 
 
 function App() {
