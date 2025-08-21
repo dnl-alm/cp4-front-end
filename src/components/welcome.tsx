@@ -10,7 +10,7 @@ export function Welcome() {
     }}>
       <h1>Bem Vindo ao</h1>
       <h2>Trackfit-mini</h2>
-      <p>Trackfit o lugar onde você será mo mais forte no seu grupo de amigos🦾🦾🦾</p> 
+      <p>Trackfit o lugar onde você será o mais forte no seu grupo de amigos🦾🦾🦾</p> 
     </div>
    </>
   )
